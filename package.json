@@ -1,0 +1,17 @@
+{
+  "name": "test00-nodejs",
+  "version": "1.0.0",
+  "description": "test project 00",
+  "main": "server-a.js",
+  "scripts": {
+    "server": "nodemon server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
